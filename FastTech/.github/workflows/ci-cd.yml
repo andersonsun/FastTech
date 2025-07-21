@@ -6,6 +6,7 @@ name: .NET CI/CD
 # Publicar (deploy, se desejar)
 # O deploy pode ser configurado depois (para Azure, AWS, Docker Hub, etc.)
 
+
 on:
   push:
     branches: [ main ]
